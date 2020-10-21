@@ -1,0 +1,10 @@
+{
+  "name": "livegit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Francisco Aguiar <francisco.marinho.aguiar@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
